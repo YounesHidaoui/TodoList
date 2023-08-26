@@ -1,0 +1,10 @@
+.b button {
+    border: none;
+    width: 100px;
+    height: 43px;
+    margin-left: 0.4px;
+    border-radius: 0px;
+    background-color: #A8EB12;
+    color: aliceblue;
+}
+
